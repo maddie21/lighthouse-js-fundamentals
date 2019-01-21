@@ -9,4 +9,8 @@ while (i < ingredients.length) {
 
 // Write a for loop that prints out the contents of ingredients:
 
+for (var i = 0; i < ingredients.length; i++) {
+  console.log(ingredients[i]);
+}
+
 // Write any loop (while or for) that prints out the contents of ingredients backwards:
